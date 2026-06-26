@@ -2,15 +2,9 @@ Módulo 1 — Introducción a la automatización
 Objetivo: Comprender qué es la automatización de pruebas, por qué surge, qué problemas
 resuelve y qué pruebas conviene automatizar.
 Temas a estudiar:
-• ¿Por qué surge la automatización? ¿Qué problemas resuelve?
-• Beneficios de la automatización frente a las pruebas manuales.
-• Criterios para decidir qué pruebas conviene automatizar.
+• ¿Por qué surge la automatización? para optimizar tiempos de ejecucion y facilitar la optencion de datos para los reportes
+• ¿Qué problemas resuelve?: el tiempo de ejecucion, el numero de personas en el equipo
+• Beneficios de la automatización frente a las pruebas manuales. R: ayuda a reducir el tiempo de ejecucion de pruebas, optimiza recursos ya que se puede concentrar de diferente forma dependiendo de las necesidades del momento
+• Criterios para decidir qué pruebas conviene automatizar. R: para mi es la importacia de la prueba, que tan compleja es la tarea a automatizar, que tantos equipos se pueden beneficiar de la automatizacion 
 • Panorama general del stack y del flujo de trabajo de QA Automation.
-Material de estudio:
-• Presentación &quot;Taller automatización&quot; (sección Introducción).
-Reto a entregar: Investigación / resumen: elaborar un documento breve que explique con sus
-palabras qué es la automatización, sus beneficios y un ejemplo de caso que SÍ conviene
-automatizar y uno que NO. Subirlo como README del Módulo 1.
-Criterios de aprobación:
-• Distingue correctamente automatización vs. pruebas manuales.
-• Justifica con criterio qué automatizar y qué no.
+
